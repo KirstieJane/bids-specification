@@ -56,6 +56,26 @@ for help and advice on working with BIDS files and tools.
 
 ### Developing the specification
 
+Discussions around the development of BIDS happen in
+[this](https://github.com/bids-standard/bids-specification) GitHub organisation.
+
+They also happen on the
+[BIDS mailing list](https://groups.google.com/forum/#!forum/bids-discussion).
+
+We recommend you join the mailing list and
+[tailor your notifications](https://github.com/settings/notifications) for
+GitHub as you prefer.
+
+There can be a lot of notifications if you keep to the default behaviour when
+you "watch" a GitHub repository. Therefore we've "hacked" the
+[CODEOWNERS file](CODEOWNERS) to give you a way to follow specific files in the
+BIDS Specification.
+
+For your reference, here's a helpful page
+[about notifications](https://help.github.com/articles/about-notifications/)
+and here's one
+[about the CODEOWNERS file](https://help.github.com/articles/about-code-owners/).
+
 ## Contributing through GitHub
 
 [Git](https://git-scm.com/) is a really useful tool for version control. [GitHub](https://github.com/) sits on top of git and supports collaborative and distributed working.
