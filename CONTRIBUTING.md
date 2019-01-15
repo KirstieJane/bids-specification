@@ -1,4 +1,3 @@
-
 # Contributing to the BIDS Specification
 
 **Welcome to the BIDS Specification repository!**
@@ -16,6 +15,7 @@ Been here before? Already know what you're looking for in this guide? Jump to th
 * [Joining the BIDS community](#joining-the-community)
 * [Get in touch](#get-in-touch)
   * [Help and support using BIDS](#help-and-support-using-bids)
+  * [Developing the specification](#developing-the-specification)
 * [Contributing through GitHub](#contributing-through-github)
   * [Writing in markdown](#writing-in-markdown)
   * [Following the Markdown Style Guide](#following-the-markdown-style-guide)
@@ -53,6 +53,8 @@ Some example questions that have already been answered include:
 
 You can also check out the [BIDS Starter Kit](https://github.com/bids-standard/bids-starter-kit)
 for help and advice on working with BIDS files and tools.
+
+### Developing the specification
 
 ## Contributing through GitHub
 
@@ -156,6 +158,11 @@ GitHub has a [nice introduction](https://help.github.com/articles/github-flow/) 
 <br>
 
 <br>
+
+## Decision making within the BIDS community
+
+The decision-making process is outlined in
+[DECISION-MAKING.md](DECISION-MAKING.md).
 
 ## Recognizing contributions
 
